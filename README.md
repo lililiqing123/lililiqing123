@@ -12,8 +12,8 @@ https://github.com/lililiqing123/tasks
 ---
 
 
-主页参考链接（https://github.com/mim1q）
-（https://github.com/HiTech0926）
+主页参考链接 https://github.com/mim1q
+https://github.com/HiTech0926
 > 我想要多介绍一点但发现不知道说什么
 
 
