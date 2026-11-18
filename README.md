@@ -1,6 +1,5 @@
 ## 你好👋
-https://github.com/user-attachments/assets/a2a9391a-d2ad-4c5e-97fe-c71046be61a0
-
+![hello,I am Li](<img width="800" height="450" alt="hello-handwriting-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/97861a99-7af2-401c-a813-8efd2814e994" />)
 ## 我
 - **一名计算机专业学生**
 - **正在学习计算机知识，致力于探索ai新时代下计算机人的新位置**
