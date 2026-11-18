@@ -1,4 +1,5 @@
 ## 你好👋
+https://github.com/user-attachments/assets/a2a9391a-d2ad-4c5e-97fe-c71046be61a0
 
 ## 我
 - **一名计算机专业学生**
