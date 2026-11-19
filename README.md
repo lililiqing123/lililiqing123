@@ -1,7 +1,7 @@
 ## 你好👋
 
 <p align="center">
-  ![hello-handwriting](<img width="800" height="450" alt="hello-handwriting-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/087b7df7-5d43-4f68-99bb-28359980c78d" />)
+ <img width="800" height="450" alt="hello-handwriting-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/087b7df7-5d43-4f68-99bb-28359980c78d" />
 </p>
 
 ## 我
